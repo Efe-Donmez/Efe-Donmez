@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on: Flutter mobile and web application development.<br>👯 I’m looking to collaborate on: Exciting and innovative projects.<br>🤝 I’m looking for help with: Backend development and scaling.<br>🌱 I’m currently learning: New technologies and frameworks.<br>💬 Ask me about: Flutter, mobile and web development.<br>⚡ Fun fact: I'm constantly striving to improve myself and I enjoy working as a freelancer.
+<!-- # 💫 About Me:
+🔭 I’m currently working on: Flutter mobile and web application development.<br>👯 I’m looking to collaborate on: Exciting and innovative projects.<br>🤝 I’m looking for help with: Backend development and scaling.<br>🌱 I’m currently learning: New technologies and frameworks.<br>💬 Ask me about: Flutter, mobile and web development.<br>⚡ Fun fact: I'm constantly striving to improve myself and I enjoy working as a freelancer. -->
 
 
 ## 🌐 Socials:
