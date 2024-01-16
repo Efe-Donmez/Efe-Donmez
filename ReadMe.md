@@ -16,5 +16,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Efe-Donmez&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Efe-Donmez&icon=0&color=1)](https://visitcount.itsvg.in)
